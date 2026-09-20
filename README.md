@@ -19,3 +19,6 @@ Websites are hosted on Netlify. Domain fees and renewal fees are separate and de
 
 ## Tech
 Semantic HTML, CSS, vanilla JavaScript, GSAP + ScrollTrigger, Lenis, responsive design, and no backend.
+
+## Payment terms
+50% of the website price is paid in advance to begin the project. The remaining 50% is paid after the website has been delivered and the customer is satisfied with the completed website.
